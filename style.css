@@ -1,0 +1,43 @@
+
+            * {
+                background-color: #ffffff;
+                color : rgb(39, 173, 35)
+            }
+
+            * {
+                border: solid;
+            }
+            .header{
+                background-color: #40fafa;
+               
+                justify-content: space-between;
+            }
+            .sub-header{
+                background-color: #40fafa;
+            
+             flex-direction: column;
+              justify-content: first baseline
+                
+                
+            }
+            .item{
+              
+                background-color: #fa6060;
+                justify-content : center;
+               
+            }
+            .grid{
+               
+                background-color: #20fa20;
+                align-items: center;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                flex-direction: column;
+            }
+            .footer{
+                background-color: #000000;
+                justify-content:space-evenly;
+            }
+            p {
+            text-align : center;
+            }
